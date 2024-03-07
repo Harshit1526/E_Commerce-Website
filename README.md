@@ -5,12 +5,12 @@ Getting Started
 Prerequisites
 Before running the project, ensure you have the following installed:
 
-Node.js and npm: Download here
+Node.js and npm: [Download here](https://nodejs.org/en)
 MongoDB: Installation instructions
 Installation
 Clone the repository to your local machine:
-bash
-Copy code
+
+
 git clone <repository-url>
 Navigate to the project directory:
 
@@ -21,12 +21,15 @@ Install dependencies for frontend, backend, and admin:
 
 
 cd frontend
+
 npm install
 
 cd ../backend
+
 npm install
 
 cd ../admin
+
 npm install
 
 
